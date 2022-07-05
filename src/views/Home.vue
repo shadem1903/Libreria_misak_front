@@ -29,7 +29,7 @@
               <vue-recaptcha
                 class="recap"
                 ref="recaptcha"
-                sitekey="6LdCUjcgAAAAAM-G2M8Y4utP2L87TkkGUiHU12YP"
+                sitekey="6LdxCcYgAAAAAK2GKaSXwv7vei1ua5r-iucMX4AD"
               />
             </div>
             <input type="submit" class="fadeIn fourth" value="ENTRAR" />
@@ -60,7 +60,7 @@ export default {
   props: {},
   data: function () {
     return {
-      siteKey: "6LdCUjcgAAAAAM-G2M8Y4utP2L87TkkGUiHU12YP",
+      siteKey: "6LdxCcYgAAAAAK2GKaSXwv7vei1ua5r-iucMX4AD",
       error: null,
       error_msg: null,
       email: "",
